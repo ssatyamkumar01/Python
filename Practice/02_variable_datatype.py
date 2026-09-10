@@ -1,0 +1,12 @@
+a=10
+b="alpha"
+c=23.22
+d=True
+e=3+2j
+f=None
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(f))

@@ -1,0 +1,6 @@
+a=input('Enter your name: ')
+b=input('Enter your Age: ')
+print('My name is :',a,'and I am',b,'years old')
+c=int(input('Enter First number:'))
+d=int(input('Enter Second number:'))
+print(c+d)
